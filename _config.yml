@@ -1,3 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Renato Araga's Github 
+title: Renato Araga
 description: Check out all the work I have done or lets chat to collaborate!
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: false
+  
